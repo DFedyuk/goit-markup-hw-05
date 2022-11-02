@@ -743,8 +743,8 @@ transform: translateY(0);
   cursor: pointer;
 }
 
-.social-icon {
-  width: 11px;
-  height: 11px;
+.close-btn-icon {
+  width: 18px;
+  height: 18px;
   fill: #000000;
 }
